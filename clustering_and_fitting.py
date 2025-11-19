@@ -1,5 +1,5 @@
 """
-Author: Ibrahim Abdulsalam
+Author: Ibrahim Olayinka Abdulsalam
 Clustering and Fitting Assignment 
 Completed code using the Used Car Price Prediction Dataset.
 Dataset renamed to data.csv as instructed.
