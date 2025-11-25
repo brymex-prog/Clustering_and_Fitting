@@ -286,7 +286,7 @@ def plot_fitted_data(data, x, y):
         data[cols[0]], data[cols[1]],
         alpha=0.6, label="data"
     )
-    ax.plot(x, y, linewidth=2, label="fitted line", color = 'red')
+    ax.plot(x, y, linewidth=2, label="fitted line", color='red')
 
     ax.set_xlabel(cols[0])
     ax.set_ylabel(cols[1])
